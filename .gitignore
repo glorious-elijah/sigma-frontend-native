@@ -135,5 +135,4 @@ dist
 expo-env.d.ts
 # @end expo-cli
 
-.trunk/*
 .vscode
